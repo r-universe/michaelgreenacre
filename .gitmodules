@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "easyCODA"]
 	path = easyCODA
-	url = https://github.com/cran/easyCODA
+	url = https://github.com/michaelgreenacre/easycoda
